@@ -16,6 +16,6 @@ tensorflow
 
 关键代码加了一些的注解
 
-镜像上传至https://hub.docker.com/r/shenjihehe/shouxie-ubuntu/（通过朋友的dockerhub账号上传）
+镜像上传至https://hub.docker.com/r/shenjihehe/shouxie-ubuntu/ （通过朋友的账号上传）
 或者可以在终端使用docker pull shenjihehe/shouxie-ubuntu 拉取镜像
 
